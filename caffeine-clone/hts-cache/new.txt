@@ -1,0 +1,5 @@
+date	size'/'remotesize	flags(request:Update,Range state:File response:Modified,Chunked,gZipped)	statuscode	status ('servermsg')	MIME	Etag|Date	URL	localfile	(from URL)
+18:09:29	284/284	---M-Z	200	added ('OK')	text/html	date:Mon,%2002%20Feb%202026%2017:09:27%20GMT	https://open-at-own-risk-mjf.caffeine.xyz/robots.txt		(from )
+18:09:29	433/433	---M-Z	200	added ('OK')	text/html	date:Mon,%2002%20Feb%202026%2017:09:28%20GMT	https://open-at-own-risk-mjf.caffeine.xyz/	caffeine-clone/open-at-own-risk-mjf.caffeine.xyz/index.html	(from )
+18:09:30	854678/854678	---M-Z	200	added ('OK')	application/javascript	date:Mon,%2002%20Feb%202026%2017:09:29%20GMT	https://open-at-own-risk-mjf.caffeine.xyz/assets/index-CxJV-qoK.js	caffeine-clone/open-at-own-risk-mjf.caffeine.xyz/assets/index-CxJV-qoK.js	(from https://open-at-own-risk-mjf.caffeine.xyz/)
+18:09:30	96931/96931	---M-Z	200	added ('OK')	text/css	date:Mon,%2002%20Feb%202026%2017:09:30%20GMT	https://open-at-own-risk-mjf.caffeine.xyz/assets/index-Bx8okoif.css	caffeine-clone/open-at-own-risk-mjf.caffeine.xyz/assets/index-Bx8okoif.css	(from https://open-at-own-risk-mjf.caffeine.xyz/)
