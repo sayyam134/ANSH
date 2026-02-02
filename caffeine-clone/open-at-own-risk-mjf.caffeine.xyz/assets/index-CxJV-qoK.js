@@ -22656,7 +22656,7 @@ const CelebrationScene = () => {
         children: /* @__PURE__ */ jsxRuntimeExports.jsx(
           "img",
           {
-            src: "/assets/generated/floating-hearts-transparent.dim_400x400.png",
+            src: "./assets/generated/floating-hearts-transparent.dim_400x400.svg",
             alt: "heart",
             className: "w-12 h-12 opacity-70",
             style: {
@@ -22682,7 +22682,7 @@ const CelebrationScene = () => {
         /* @__PURE__ */ jsxRuntimeExports.jsx(
           "img",
           {
-            src: "/assets/generated/kissing-couple.dim_800x600.png",
+            src: "./assets/generated/kissing-couple.dim_800x600.svg",
             alt: "Romantic couple",
             className: "relative rounded-3xl shadow-2xl border-8 border-white dark:border-pink-900 max-w-full h-auto",
             style: { maxHeight: "400px" }
