@@ -1,3 +1,5 @@
+import { recipientName } from './config.js';
+
 var __defProp = Object.defineProperty;
 var __typeError = (msg) => {
   throw TypeError(msg);
@@ -22702,7 +22704,7 @@ const CelebrationScene = () => {
         },
         i
       )) }),
-      /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-12 p-6 bg-white/80 dark:bg-gray-900/80 rounded-2xl shadow-xl backdrop-blur-sm", children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-2xl font-semibold text-rose-600 dark:text-rose-400", children: "Can't wait to celebrate with you, Anushka! 🌹" }) })
+      /* @__PURE__ */ jsxRuntimeExports.jsx("div", { className: "mt-12 p-6 bg-white/80 dark:bg-gray-900/80 rounded-2xl shadow-xl backdrop-blur-sm", children: /* @__PURE__ */ jsxRuntimeExports.jsx("p", { className: "text-2xl font-semibold text-rose-600 dark:text-rose-400", children: `Can't wait to celebrate with you, ${recipientName}! 🌹` }) })
     ] }) }),
     /* @__PURE__ */ jsxRuntimeExports.jsx("footer", { className: "absolute bottom-4 left-0 right-0 text-center text-sm text-rose-600/70 dark:text-rose-400/70 z-20", children: /* @__PURE__ */ jsxRuntimeExports.jsxs("p", { className: "flex items-center justify-center gap-2", children: [
       "© 2025. Built with ",
@@ -22857,7 +22859,7 @@ function App() {
               /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "space-y-4 animate-fade-in", children: [
                 /* @__PURE__ */ jsxRuntimeExports.jsxs("div", { className: "flex items-center justify-center gap-4", children: [
                   /* @__PURE__ */ jsxRuntimeExports.jsx(Heart, { className: "w-12 h-12 text-red-500 animate-pulse", fill: "currentColor" }),
-                  /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "text-5xl md:text-7xl font-bold bg-gradient-to-r from-pink-600 via-red-500 to-rose-600 bg-clip-text text-transparent", children: "Anushka" }),
+                  /* @__PURE__ */ jsxRuntimeExports.jsx("h1", { className: "text-5xl md:text-7xl font-bold bg-gradient-to-r from-pink-600 via-red-500 to-rose-600 bg-clip-text text-transparent", children: recipientName }),
                   /* @__PURE__ */ jsxRuntimeExports.jsx(Heart, { className: "w-12 h-12 text-red-500 animate-pulse", fill: "currentColor" })
                 ] }),
                 /* @__PURE__ */ jsxRuntimeExports.jsx("h2", { className: "text-4xl md:text-6xl font-bold text-rose-700 dark:text-rose-300 leading-tight", children: "Will you be my Valentine? 💖" })
