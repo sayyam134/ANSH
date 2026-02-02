@@ -22682,7 +22682,7 @@ const CelebrationScene = () => {
         /* @__PURE__ */ jsxRuntimeExports.jsx(
           "img",
           {
-            src: "./assets/generated/kissing-couple.dim_800x600.svg",
+            src: "./assets/generated/kissing-couple.dim_800x600.png",
             alt: "Romantic couple",
             className: "relative rounded-3xl shadow-2xl border-8 border-white dark:border-pink-900 max-w-full h-auto",
             style: { maxHeight: "400px" }
